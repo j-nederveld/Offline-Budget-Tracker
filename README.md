@@ -3,7 +3,9 @@
 
 ## Description 
 
-A budget tracker that uses IndexedDB in order to work offline
+A budget tracker that uses IndexedDB in order to work offline.
+
+![Offline-Budget-Tracker](https://github.com/j-nederveld/Offline-Budget-Tracker/blob/main/public/icons/Screen%20Shot%202020-11-04%20at%209.07.51%20PM.png)
 
 ## Table of Contents
 
