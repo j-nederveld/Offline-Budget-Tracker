@@ -7,6 +7,8 @@ A budget tracker that uses IndexedDB in order to work offline.
 
 ![Offline-Budget-Tracker](https://github.com/j-nederveld/Offline-Budget-Tracker/blob/main/public/icons/app_preview.png)
 
+https://immense-falls-26192.herokuapp.com/
+
 ## Table of Contents
 
 * [Installation](#installation)
